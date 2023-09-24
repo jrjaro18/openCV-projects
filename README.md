@@ -1,4 +1,6 @@
 # openCV
-Before using make sure you install mediapipe and opencv 2 using:
-pip install mediapipe
-pip install opencv2
+# Before using make sure you install mediapipe and opencv 2 using:
+
+1) pip install mediapipe
+
+2) pip install opencv2
